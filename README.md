@@ -1,6 +1,7 @@
 pursuit_evasion_game
 ==
-This repo uses pygame simulation and gazebo simulation to realize the [algorithm](https://ieeexplore.ieee.org/document/7525229)
+This repo uses pygame simulation and gazebo simulation to realize the [algorithm](https://ieeexplore.ieee.org/document/7525229).
+This repository is a backup of https://github.com/Shicheng-Liu/pursuit_evasion_game.git.
 <br>
 
 pygame simulation
